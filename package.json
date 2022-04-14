@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "diffhtml": "^1.0.0-beta.27",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "build": "webpack build ./index.mjs -o out"
+  }
+}
